@@ -1,1 +1,13 @@
+fastapi
+uvicorn
+openai
+pydantic
+aiofiles
+python-dotenv
+supabase-py
+pandas
+numpy
+PyMuPDF
+openpyxl
+tiktoken
 
